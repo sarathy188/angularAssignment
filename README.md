@@ -1,13 +1,11 @@
 # angularAssignment
 Angular Assignment
 
-1.
-Username : admin
-Password : admin
+1. Username : admin
+   Password : admin
 
-2.
-Need to run json-server by below command:
+2. Need to run json-server by below command:
 
-npm run api
+   npm run api
 
-Json file: http://localhost:3000/employees
+   Json file: http://localhost:3000/employees
